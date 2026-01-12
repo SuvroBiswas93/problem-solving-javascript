@@ -4,4 +4,4 @@ function removeDuplicates(arr) {
 
 const numbers = [1, 2, 2, 3, 4, 4];
 
-console.log(removeDuplicates(numbers));
+console.log(removeDuplicates(numbers));4  
