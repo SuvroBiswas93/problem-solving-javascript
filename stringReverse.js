@@ -6,4 +6,4 @@ function reverseString(str) {
     return reversed;
 }
 
-console.log("After reversing the string the output is : ", reverseString('Hello'))
+console.log("After reversing the string the output is : ", reverseString('hello'))
